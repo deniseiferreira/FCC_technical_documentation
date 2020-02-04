@@ -1,1 +1,2 @@
-# FCC_technical_documentation
+# FCC: Technical Documentation
+freeCodeCamp - Responsive Web Design Certification
